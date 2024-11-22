@@ -43,7 +43,9 @@ git clone https://github.com/Jurgens92/OnedriveEntraSync.git
 # When Prompted:
 
 Enter your Tenant ID
+
 Enter SharePoint site URLs one at a time
+
 Press Enter (blank) when finished entering sites
 
 # Example Input
