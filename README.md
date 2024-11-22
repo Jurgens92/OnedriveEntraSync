@@ -27,7 +27,9 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## Verify OneDrive installation:
 ```powershell
-Test-Path "$env:LOCALAPPDATA\Microsoft\OneDrive\OneDrive.exe"
+Test-Path "C:\Program Files\Microsoft OneDrive\OneDrive.exe"
+Test-Path "C:\Program Files (x86)\Microsoft OneDrive\OneDrive.exe"
+Get-Process *onedrive* -ErrorAction SilentlyContinue
 ```
 
 ## Installation
