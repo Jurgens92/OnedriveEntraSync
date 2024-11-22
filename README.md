@@ -48,8 +48,12 @@ Press Enter (blank) when finished entering sites
 
 # Example Input
 
-Enter your Tenant ID: 12345678-1234-1234-1234-123456789012\
-Enter SharePoint site URL (or press Enter to finish): https://contoso.sharepoint.com/sites/Marketing\
-Enter SharePoint site URL (or press Enter to finish): https://contoso.sharepoint.com/sites/HR\
-Enter SharePoint site URL (or press Enter to finish): [Enter]\
+Enter your Tenant ID: 12345678-1234-1234-1234-123456789012
+
+Enter SharePoint site URL (or press Enter to finish): https://contoso.sharepoint.com/sites/Marketing
+
+Enter SharePoint site URL (or press Enter to finish): https://contoso.sharepoint.com/sites/HR
+
+Enter SharePoint site URL (or press Enter to finish): [Enter]
+
 
